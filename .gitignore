@@ -18,3 +18,5 @@ index.php
 /upload
 urlrewrite.php
 web.config
+composer.phar
+bitrixsetup.php
