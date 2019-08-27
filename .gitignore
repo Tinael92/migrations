@@ -1,3 +1,5 @@
 *
 !.gitignore
 !/local
+!/bitrix/composer-bx.json
+!/bitrix/composer-bx.lock
