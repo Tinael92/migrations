@@ -1,5 +1,8 @@
 *
 !.gitignore
+!/local/migrations/*
+!/local/*
 !/local
-!/bitrix/composer-bx.json
-!/bitrix/composer-bx.lock
+
+!bitrix/composer-bx.lock
+!bitrix/composer-bx.json
